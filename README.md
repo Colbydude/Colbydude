@@ -8,6 +8,6 @@
 - 🚀 Among the first 100 developers to create a [Twitch Extension](https://www.twitch.tv/p/extensions/)
   - 🎤 [Music Requests](https://dashboard.twitch.tv/extensions/yvi77da9edbnjuffpghz4uluzf021g)
   - 🐠 [FishFriendos](https://dashboard.twitch.tv/extensions/uqbw5s35wg1ztqw1kmrf37swiwxmyi)
-- 🌱 Getting better at C++ and game devlopment of all sorts
+- 🌱 Getting better at C++ and game development of all sorts
   - 👀 [GB Studio](https://www.gbstudio.dev/) and [Unity](https://unity.com/)
 - 🎸 [VGM rock-guitarist](https://colbydude.com/music) and bassist in [Armature](https://armature.band)
