@@ -4,7 +4,7 @@
   </a>
 </p>
 
-- 🔭 Software Engineer in Bellevue, WA &mdash; love working with [Laravel](https://laravel.com) and [Vue.js](https://vuejs.org/)
+- 🔭 Senior Software Engineer in Bellevue, WA &mdash; love working with [Laravel](https://laravel.com) and [Vue.js](https://vuejs.org/)
 - 🚀 Among the first 100 developers to create a [Twitch Extension](https://www.twitch.tv/p/extensions/)
   - 🎤 [Music Requests](https://dashboard.twitch.tv/extensions/yvi77da9edbnjuffpghz4uluzf021g)
   - 🐠 [FishFriendos](https://dashboard.twitch.tv/extensions/uqbw5s35wg1ztqw1kmrf37swiwxmyi)
