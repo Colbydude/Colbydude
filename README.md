@@ -1,6 +1,6 @@
-- 🔭 Senior Software Engineer in Bellevue, WA
+- 🔭 Senior Software Engineer in Seattle, WA
 - 🚀 Among the first 100 developers to create a [Twitch Extension](https://www.twitch.tv/p/extensions/)
   - 🎤 Music Requests (Sunset in 2025)
   - 🐠 [FishFriendos](https://dashboard.twitch.tv/extensions/uqbw5s35wg1ztqw1kmrf37swiwxmyi)
 - 🎮 Game dev, typically working in [Unity](https://unity.com/)
-- 🎸 [VGM rock-guitarist](https://colbydude.com/music) and bassist in [Armature](https://armature.band)
+- 🎸 [VGM rock-guitarist](https://colbydude.com/music) in [Prog XP](https://progxp.band) and bassist in [Armature](https://armature.band)
